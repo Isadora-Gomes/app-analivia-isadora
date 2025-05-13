@@ -1,4 +1,4 @@
-// Isadora Gomes da Silva e Ana Lívia dos Santos Lopes
+// Isadora Gomes da Silva e Ana Lívia dos Santos Lopes 3º
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, View, Text, Image, Pressable, Alert } from 'react-native';
 import * as ImagePicker from "expo-image-picker";
