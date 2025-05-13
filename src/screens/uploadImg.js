@@ -52,6 +52,7 @@ const UploadFoto = ({ navigation }) => {
   const uploadImage = async () => {
     if (!imageUri) {
       alert("Erro", "Nenhuma imagem selecionada.");
+      
       return;
     }
 
